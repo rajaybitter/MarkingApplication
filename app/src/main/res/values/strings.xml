@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Marking Application</string>
+    <string name="id_number">ID Number:</string>
+    <string name="password">Password:</string>
+    <string name="java">COMP1161</string>
+    <string name="python1">COMP1126</string>
+    <string name="python2">COMP1127</string>
+    <string name="lab_number">Lab Number:</string>
+    <string name="lab_grade">Lab Grade:</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="student_id">Student ID:</string>
+    <string name="view_grades">View Grades</string>
+    <string name="confirm">Confirm</string>
+    <string name="logout">Logout</string>
+    <string name="view_users">View Users</string>
+    <string name="full_name">Full Name:</string>
+    <string name="admin">Admin</string>
+    <string name="tech">Tech</string>
+
+    <string name="id_error">Please enter your ID number</string>
+    <string name="password_error">Please enter your password</string>
+
+</resources>
